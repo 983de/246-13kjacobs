@@ -33,7 +33,8 @@
       "name": "Understanding GitHub",
       "description": "A series of guidelines to be creative using GitHub"
     },
-    ],
+    {,
       "collection": { 
       "description": "This JSON file is a list of users and items related to programming and topics."
 } 
+    }
